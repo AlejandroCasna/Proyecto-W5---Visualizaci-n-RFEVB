@@ -1,0 +1,169 @@
+Dorsal,Nombre,Posición,Año_de_nacimiento,id_jugador,id_equipo
+2,Paradela Cortón Miguel,Líbero,2004,1,1
+3,Bouza Ferreiro Víctor,Receptor,1990,2,1
+4,Linares José Luis,Opuesto,1998,3,1
+5,Barrasa Portomeñe Samuel,Líbero,2007,4,1
+6,Edward Batalla Dexter,Colocador/a,2000,5,1
+9,Schulz Max,Receptor,2002,6,1
+10,Biliato Luca,Opuesto,1993,7,1
+11,Villar Álvarez Pablo,Colocador/a,2002,8,1
+12,Rodríguez Rubio Aurelio,Middle-blocker,2000,9,1
+13,Frías Collado Juan Francisco,Middle-blocker,2000,10,1
+14,Augustinho De Lara Sopschuk Luis Henrique,Middle-blocker,2002,11,1
+17,Ossola Gude Nahuel,Receptor,2002,12,1
+1,Rodríguez Herrera Francisco J.,Receptor,1980,13,2
+2,Conde Barrios Lucas,Receptor,2004,14,2
+3,Oliva Alonso Adrián,Middle-blocker,1998,15,2
+7,Dovale Fidalgo Mario,Líbero,-,16,2
+8,Rodríguez Álvarez Óscar,Receptor,2002,17,2
+9,Duque Grijalvo Francisco,Middle-blocker,1999,18,2
+10,Álvarez Escudero Eduardo,Opuesto,1998,19,2
+11,Cabello Diedhou Ahmed,Middle-blocker,2000,20,2
+13,Macarro Tortajada Daniel,Middle-blocker,1993,21,2
+14,Machuca Wehbe BRuno,Colocador/a,2006,22,2
+15,Roberts Ignacio,Colocador/a,1997,23,2
+18,Fernández Coviello Adrián,-,1989,24,2
+19,Nogueira Amorim Víctor Lucas,Opuesto,1997,25,2
+22,Del Carmen Barbara Gabriel,Receptor,1994,26,2
+99,Costa Erick G.,Receptor,1997,27,2
+1,Seybering David,Middle-blocker,1995,28,3
+2,Garcías Millas Joan Miquel,Líbero,2002,29,3
+4,Sánchez Coll Javier,Colocador/a,2001,30,3
+5,Riera Granada Adrián,Receptor,2002,31,3
+6,Bernal Bravo Abel,Middle-blocker,1981,32,3
+7,De la Rosa Cañellas Antonio,Opuesto,2002,33,3
+8,Osado Carrasco José,Líbero,1997,34,3
+9,Rodríguez Dosal Ángel,Opuesto,1995,35,3
+10,Giménez Hernández José María,Receptor,1995,36,3
+11,Cairus Renzo,Receptor,1990,37,3
+13,Moreno Mañas Antonio,Receptor,1987,38,3
+15,Arjones Ferreiros Jaime,Colocador/a,2003,39,3
+18,Scarpin Maximiliano,Middle-blocker,1990,40,3
+-,Llopart Alejandro,-,1998,41,4
+1,Alves Ramos Vitor,Receptor,2002,42,4
+2,Chourio González Anderson José,Opuesto,1986,43,4
+4,Liu Coltyn Go Yuen,Receptor,1999,44,4
+6,Piris Guiscafré Antoni,Líbero,2001,45,4
+7,Miranda de Alcantara Víctor Hugo,Opuesto,1998,46,4
+8,Calvo Leandro Omar,Receptor,2000,47,4
+9,Romaní Leandro Gustavo,Middle-blocker,1999,48,4
+10,Ribas Brockert Alejandro,Middle-blocker,2004,49,4
+15,Mesquida Pomar Francesc,Receptor,1994,50,4
+21,Martín Pérez César,Colocador/a,1995,51,4
+77,Gibanel Galmés Sebastiá,Líbero,2000,52,4
+99,Kobzev Vitaly,Middle-blocker,-,53,4
+1,Bruno López Nicolás,Receptor,1989,54,5
+2,Pérez Figueroa Ezequiel,Líbero,2006,55,5
+3,Saxton Vigrass Graham,Middle-blocker,1989,56,5
+5,De Carvalho Furtado Carlos Manuel,Middle-blocker,1995,57,5
+6,Bezerra Souza Francisco Wallyson,Opuesto,1990,58,5
+7,de Amo Miguel Ángel,Colocador/a,1985,59,5
+8,Larrañaga Ledo Unai,Líbero,2000,60,5
+10,Almansa Jorge,Receptor,1991,61,5
+11,Moreno Mosquera Juan Pablo,Opuesto,1997,62,5
+12,Diedhiou Pascal Jean,Middle-blocker,1993,63,5
+13,Zonca Paolo,Receptor,1997,64,5
+14,Cavanna Maximiliano,Colocador/a,1988,65,5
+18,Ramos Martín Emiliano,Middle-blocker,1991,66,5
+22,López Carretero Hugo,Receptor,2004,67,5
+1,Vanole Nogueira Silva Thiago,Receptor,1994,68,6
+2,Melgarejo Brian Efren,Receptor,1995,69,6
+3,Riganti Juan Martín,Colocador/a,1988,70,6
+5,Masia Porres Arnau,Líbero,2002,71,6
+6,El Mesaoudi Sufian,Receptor,2003,72,6
+7,Portero Losilla Andrés Francisco,Colocador/a,1991,73,6
+9,López Alacio David,Middle-blocker,2000,74,6
+10,Hamed Benali Samir,Líbero,2000,75,6
+11,Mimoun Chakrani Azddin,Middle-blocker,2004,76,6
+16,Monteagudo del Pueblo Joaquín,Middle-blocker,1996,77,6
+22,Pereyra Hernán Federico,Opuesto,1988,78,6
+24,Giustiniano Mariano Ariel,Receptor,1986,79,6
+28,Ruda Martínez Florentino,Receptor,2003,80,6
+87,Martina Federico,Opuesto,1992,81,6
+1,Valquintans Kulakauskas Joao G.,Receptor,1985,82,7
+2,Camacho Nahuel,Middle-blocker,1996,83,7
+3,Almeida Ortega Eric Javier,Receptor,2001,84,7
+4,Villar Rodríguez Mario,Colocador/a,2002,85,7
+5,Dos Santos Cezar Moises,Middle-blocker,1983,86,7
+6,Castañeda Yanguas Daniel,Colocador/a,1975,87,7
+7,Loeches Buitrago Guillermo,Colocador/a,1996,88,7
+8,Cardenes Arocha Jonathan,Receptor,1985,89,7
+10,Gallardo Hernández Rodrigo,Líbero,1999,90,7
+11,Ponce Fiol Jorge,Middle-blocker,2000,91,7
+14,Dahl Ulrik Bo,Opuesto,2000,92,7
+15,León Sánchez Antonio,Opuesto,2005,93,7
+20,Rodríguez Cáceres Nicolás Omar,Middle-blocker,2004,94,7
+2,Salvador Esteban Manuel,Receptor,1986,95,8
+4,Zazo Miloserdova Tomás,Opuesto,2004,96,8
+5,Lorente López Lucas,Colocador/a,2001,97,8
+6,Flores Fabian Emanuel,Middle-blocker,1991,98,8
+7,Olalla Gómez Adrián,Receptor,2001,99,8
+8,Belda de Vial Luke,Receptor,2003,100,8
+9,Villalba Zamorano José,Receptor,2000,101,8
+10,San Martín Rodríguez Alejandro,Líbero,1994,102,8
+11,Sanchis Ignasi,Colocador/a,2002,103,8
+13,Jiménez Abeytua Rodrigo,Líbero,2005,104,8
+14,Aulisi Santiago Karim,Receptor,1996,105,8
+16,Santos Cunha Bruno,Opuesto,1997,106,8
+20,Domenech Tous Joan,Middle-blocker,2001,107,8
+21,Tenorio Capeloci Davi,Middle-blocker,2005,108,8
+-,Aparicio Conejos Moisés,-,2007,109,9
+-,Aranda Gallardo Diego,-,2008,110,9
+-,Cote Cárdenas Mario,-,2006,111,9
+-,Hernández Sánchez Pedro,-,2006,112,9
+-,Martín Torres Ramón,-,2007,113,9
+-,Montero López Álvaro,-,2006,114,9
+-,Pinazo Calomarde José,-,2006,115,9
+1,Lorente Camacho Rubén,Colocador/a,1998,116,9
+5,Méndez Jiménez Víctor,Middle-blocker,1997,117,9
+7,Martínez Palacios Miguel Ángel,Opuesto,2003,118,9
+8,Ferrández Moles Emilio,Receptor,2001,119,9
+9,Téllez Rodríguez Axel,Middle-blocker,1999,120,9
+10,Zelayeta Mauro Rafael,Receptor,2000,121,9
+11,Pont Perello Guillem,Colocador/a,2002,122,9
+16,Valiño Sanz Isaac,Receptor,1999,123,9
+17,Igual Rabanete Javier,Opuesto,2002,124,9
+18,Gámiz Padilla Aharón,Líbero,1988,125,9
+20,Vildosola Mariano,Receptor,1991,126,9
+22,Fresquet Barceló Xavier,Middle-blocker,2003,127,9
+1,Carreño Millón Marco,Receptor,2004,128,10
+2,Viera Iglesias Álvaro,Opuesto,2003,129,10
+3,Rodríguez Pérez Víctor,Receptor,-,130,10
+4,Moya Berenguel Alejandro,Líbero,2004,131,10
+5,Fernández Martínez Francisco José,Líbero,1995,132,10
+7,Bertassoni Paulo Renan,Colocador/a,1985,133,10
+8,Fernández Jorge,Middle-blocker,1989,134,10
+9,Neaves Matthew Michael,Opuesto,2000,135,10
+10,Ruiz Garrido Francisco José,Receptor,1991,136,10
+11,Fernández López Fernando,Middle-blocker,1997,137,10
+12,Vizcaino Gallardo Javier,Colocador/a,2003,138,10
+14,Ruiz Mira Borja,Middle-blocker,1992,139,10
+1,Nieves Suárez Carlos,Receptor,2004,140,11
+2,Grossi Anderson,Middle-blocker,1994,141,11
+3,Funes Facundo Jesús,Receptor,1994,142,11
+4,Monfort Minaya Javier,Receptor,1990,143,11
+5,Allen Serrano Luis Vidal,Middle-blocker,2001,144,11
+7,Mengod Bautista Fernando,Receptor,1993,145,11
+10,Huerta Fabregat José Ignacio,Colocador/a,1998,146,11
+12,Monfort Minaya Vicente,Colocador/a,1988,147,11
+14,Pérez Lledó Pablo,Opuesto,2004,148,11
+15,Dangel Mulen Armando,Opuesto,1989,149,11
+18,Iborra Ballester Héctor,Líbero,2003,150,11
+20,Postemsky Ivan,Middle-blocker,1992,151,11
+21,Mengod Bautista Javier,Líbero,1996,152,11
+22,Rabell Trullenque Carlos,Middle-blocker,2022,153,11
+1,Da Cruz Neto Walter,Middle-blocker,1989,154,12
+2,Lynard Oskar,Middle-blocker,1999,155,12
+4,García Borrás Héctor,Colocador/a,1998,156,12
+5,Grau Canto Joaquín José,Líbero,2004,157,12
+7,Amorós Martín Arel,Middle-blocker,2007,158,12
+9,Quesada Gómez Justo,Receptor,2007,159,12
+10,Piqueres Flor Nestor,Líbero,1995,160,12
+11,Piqueres Flor Eder,Colocador/a,1995,161,12
+13,Pla Sánchez Alfredo,Receptor,2002,162,12
+14,Osorio Recordá Gerard,Opuesto,1993,163,12
+15,Marí Domene Álvaro,Middle-blocker,2002,164,12
+17,Martínez Gómez Sergio,Opuesto,2002,165,12
+20,Hernández Robeff Tomás Agustín,Receptor,1998,166,12
+23,Jiménez Gallego Carlos,Receptor,1995,167,12
+77,Fernández Rodríguez Francisco,Receptor,1996,168,12
