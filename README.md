@@ -5,7 +5,7 @@
 En el vibrante escenario del vóley en España, se despliega una temporada llena de emoción, donde los equipos ansían destacar en una competencia feroz. Con un arsenal de habilidades que van desde remates imparables hasta bloqueos infranqueables, cada equipo busca no solo ascender en la clasificación, sino también dominar habilidades específicas que definen el éxito en el vóley moderno.
 
 - Objetivo del Proyecto
-Este README marca el reinicio del proyecto ETL, donde nos embarcamos en una misión emocionante para enriquecer y actualizar los datos relacionados con el vóley en España. El objetivo es proporcionar una visión más completa y precisa del panorama actual del vóley, incorporando datos frescos y análisis detallados.
+Este README marca el reinicio del proyecto [**ETL**](https://github.com/AlejandroCasna/Proyecto-scraping), donde nos embarcamos en una misión emocionante para enriquecer y actualizar los datos relacionados con el vóley en España. El objetivo es proporcionar una visión más completa y precisa del panorama actual del vóley, incorporando datos frescos y análisis detallados.
 
 ### Pasos del Proyecto
   - Extracción (Extract): Obtendremos datos actualizados de los equipos, jugadores, clasificación y estadísticas clave de fuentes confiables y actualizadas.
@@ -27,7 +27,7 @@ Descubrimos rivalidades intensas que dan vida a la competición. Desde encuentro
 
 Aquí podemos apreciar a los equipos actuales en plena disputa por la victoria en la SuperLiga Masculina, cada uno llevando consigo su propia narrativa y aspiraciones.
 
-![diagrama](https://github.com/AlejandroCasna/Proyecto-scraping/blob/f7a00953a639c26de1ab66ef732bbcde32179ee3/imagenes/jugadores-equipos.png)
+![diagrama](https://github.com/AlejandroCasna/Proyecto-W5-Visualizaci-RFEVB/blob/6ae6c36510dd9a4c4d951689d0291bc2d6061e14/imagenes/clasificaci%C3%B3n.jpg)
 
 </details>
 
@@ -49,10 +49,8 @@ Analizamos el impacto de un remate preciso, explorando cómo los equipos convier
 <details>
 <summary>Estadísticas de Juego</summary>
 <br>
-
-Aquí, observamos estadísticas actuales de los partidos, revelando que son más los puntos por bloqueo que por saques. Los datos proporcionan una visión clara de las fortalezas y debilidades tácticas de cada equipo.
   
-![diagrama](https://github.com/AlejandroCasna/Proyecto-W5-Visualizaci-RFEVB/blob/5c7b8708ed9af07d73eb96b597572ed1b38e311a/imagenes/saque_bloqueo.png)
+![diagrama](https://github.com/AlejandroCasna/Proyecto-W5-Visualizaci-RFEVB/blob/6ae6c36510dd9a4c4d951689d0291bc2d6061e14/imagenes/ataque_ataque%20bloqueado.jpg)
 </details>
 
 - 2.2 La Muralla Defensiva
@@ -61,11 +59,15 @@ Exploramos la efectividad de la muralla defensiva, desde estadísticas de bloque
 <details>
 <summary>Impacto del Bloqueo</summary>
 <br>
-Diagrama del Impacto del Bloqueo
 
-Los datos revelan que los bloqueos son un arma decisiva para acumular puntos. Además, se destaca la importancia de evitar errores en la recepción, que, aunque no definen puntos, pueden influir significativamente en el desarrollo del juego.
+Se destaca la importancia de evitar errores en la recepción, que, aunque no definen puntos, pueden influir significativamente en el desarrollo del juego.
 
+![diagrama](https://github.com/AlejandroCasna/Proyecto-W5-Visualizaci-RFEVB/blob/6ae6c36510dd9a4c4d951689d0291bc2d6061e14/imagenes/errores.jpg)
 </details>
 
+[Acceder al Dashboard de Tableau](https://public.tableau.com/app/profile/alejandro.almeida.casn/viz/Voley1/Dashboard2?publish=yes)
 
 Acompáñanos en este emocionante recorrido por el vóley español, donde cada remate, bloqueo y servicio cuenta una historia de determinación y estrategia. ¿Cuál será la táctica que definirá la próxima victoria? ¡Descúbrelo con nosotros en esta apasionante temporada!
+
+**"En el vóley, el bloqueo es el arte de construir murallas invisibles. Son esas defensas impenetrables las que no solo protegen el camino hacia el triunfo, sino que también definen la grandeza de un equipo."**  
+*- Karch Kiraly, leyenda del vóley.*
